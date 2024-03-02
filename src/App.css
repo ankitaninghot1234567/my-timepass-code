@@ -1,7 +1,145 @@
-.nc{
-color:red
+/* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.topnav a {
+  float: left;
+  color: #0f13e4;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+  font-size: 17px;
 
 }
-#nc1{
-  color: blue;
+
+.topnav a:hover {
+  background-color: rgb(35, 231, 117);
+  color: rgb(243, 3, 3);
+  transition: 0.7s;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+} */
+
+
+/* this is my image gallary */
+/* div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #5308b4;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
+#color{
+  background-color: rgb(26, 143, 143);
+
+}
+
+#colorbtn{
+  color: rgb(79, 128, 0);
+  font-size: larger;
+  background-color: aqua;
+
+
+}
+#colorbtn1{
+  color:black;
+  font-size: larger;
+  background-color:skyblue
+}
+#colorpink{
+  background-color: pink;
+}
+
+
+
+#counterbox{
+  height: 250px;
+  width: 250px;
+  background-image:linear-gradient(orange,blue,yellow);
+  text-align:center;
+  color: white;
+  border-radius: 50px;
+  box-shadow:0px 0px 100px black;
+  font-size: 80px;
+}
+#content{
+  color:white;
+  font-size: 80px;
+  margin-top: 85px;
+  padding-top: 85px;
+
+}
+#moving{
+  background-color: aqua;
+}
+
+#list{
+ 
+   margin-left: 40px;
+} */
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+#form1 {
+  margin-left: 200px;
+  width: 500px;
+  height: 40px;
+
+}
+
+#button {
+
+  margin-left: 55px;
+  border-radius: 1px;
+}
+
+#form1 {
+  width: 550px;
+  margin-top: 25px;
+}
+
+#short {
+  margin-left: 20px;
+}
+
+#flower {
+  margin-top: 5px;
+  margin-left: 150px;
+}
+
+#flower1 {
+  margin-left: 250px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+}
+
+#krishna {
+  margin-left: 250px;
 }
